@@ -1,5 +1,5 @@
-# 🚀 dost11-study
-
+# Equivalent exchange
+> You can’t gain something without giving something in return.  
 > 함께 성장하는 개발자들의 스터디 그룹
 
 ## 📚 진행 중인 스터디
