@@ -17,6 +17,9 @@
 - **[함께 자라기](https://github.com/dost11-study/The-Programatic-Path-To-Agile)** - 애자일로 가는 길 스터디
 - **[Clean Agile](https://github.com/dost11-study/Clean-Agile)** - 클린 애자일 스터디
 
+### VCS
+- **[Git & Github 기초 강의](https://github.com/dost11-study/git-github-from-the-ground-basic)** - Git & GitHub, 원리부터 차근차근 - 근본깃 [기초편]
+
 ## 🎯 스터디 목표
 
 - **AI 역량 강화**: LLM 원리 이해부터 실무 활용까지
