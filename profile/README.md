@@ -2,7 +2,7 @@
 > You can’t gain something without giving something in return.  
 > 함께 성장하는 개발자들의 스터디 그룹
 
-## 📚 진행 중인 스터디
+## 진행 중인 스터디
 
 ### AI & LLM
 - **[The 10x AI-Native Developer](https://github.com/dost11-study/the-10x-ai-native-developer)** - 회사에서 AI로 압도적 성과를 내는 법
@@ -20,18 +20,8 @@
 ### VCS
 - **[Git & Github 기초 강의](https://github.com/dost11-study/git-github-from-the-ground-basic)** - Git & GitHub, 원리부터 차근차근 - 근본깃 [기초편]
 
-## 🎯 스터디 목표
+## 스터디 목표
 
 - **AI 역량 강화**: LLM 원리 이해부터 실무 활용까지
 - **Rails 마스터**: 입문부터 심화까지 체계적 학습
 - **애자일 실천**: 이론을 넘어 실제 적용 가능한 방법론 습득
-
-## 🤝 참여 방법
-
-1. 관심있는 스터디 레포지토리 방문
-2. README에서 진행 상황 확인
-3. 토론 참여 및 학습 내용 공유
-
----
-
-💡 **함께 배우고, 함께 성장합니다**
