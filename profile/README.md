@@ -9,7 +9,7 @@
 
 ### Ruby on Rails
 - **[Rails 8 심화 강의](https://github.com/dost11-study/inflearn-rails-advanced)** - 인디해커를 위한 루비온레일즈 8 완벽 강의
-- **[Rails 8 입문 강의](https://github.com/dost11-study/inflearn-rails-introductory)** - 인디해커를 위한 루비온레일즈 8 입문 강의
+- **[[10/3 완료] Rails 8 입문 강의](https://github.com/dost11-study/inflearn-rails-introductory)** - 인디해커를 위한 루비온레일즈 8 입문 강의
 - **[Programming Ruby](https://github.com/dost11-study/Programming-Ruby)** - 프로그래밍 루비 스터디
 
 ### 애자일 & 방법론
