@@ -13,7 +13,7 @@
 - **[Programming Ruby](https://github.com/dost11-study/Programming-Ruby)** - 프로그래밍 루비 스터디
 
 ### 애자일 & 방법론
-- **[함께 자라기](https://github.com/dost11-study/The-Programatic-Path-To-Agile)** - 애자일로 가는 길 스터디
+- **[[10/9 완료] 함께 자라기](https://github.com/dost11-study/The-Programatic-Path-To-Agile)** - 애자일로 가는 길 스터디
 - **[Clean Agile](https://github.com/dost11-study/Clean-Agile)** - 클린 애자일 스터디
 
 ### VCS
