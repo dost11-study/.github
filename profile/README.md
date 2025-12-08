@@ -20,6 +20,9 @@
 - **[Git & Github 심화 강의](https://github.com/dost11-study/git-github-from-the-ground-completion)** - Git & GitHub, 원리부터 차근차근 - 근본깃 [완성편]
 - **[[10/7 완료] Git & Github 기초 강의](https://github.com/dost11-study/git-github-from-the-ground-basic)** - Git & GitHub, 원리부터 차근차근 - 근본깃 [기초편]
 
+### 커리어
+- **[취업 이야기와 서버 최적화 및 시스템 디자인 꿀팁](https://github.com/dost11-study/from-idle-to-engineer)** - 빈둥대던 취준생의 취업 이야기와 서버 최적화 및 시스템 디자인
+
 ## 스터디 목표
 
 - **AI 역량 강화**: LLM 원리 이해부터 실무 활용까지
