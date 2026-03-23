@@ -12,6 +12,9 @@
 - **[[10/3 완료] Rails 8 입문 강의](https://github.com/dost11-study/inflearn-rails-introductory)** - 인디해커를 위한 루비온레일즈 8 입문 강의
 - **[Programming Ruby](https://github.com/dost11-study/Programming-Ruby)** - 프로그래밍 루비 스터디
 
+### Linux
+- **[[03/22 완료] 리눅스 성능 분석](https://github.com/dost11-study/linux-performance-analysis)** - 리눅스 성능 분석 시작하기
+
 ### 애자일 & 방법론
 - **[[10/9 완료] 함께 자라기](https://github.com/dost11-study/The-Programatic-Path-To-Agile)** - 애자일로 가는 길 스터디
 - **[Clean Agile](https://github.com/dost11-study/Clean-Agile)** - 클린 애자일 스터디
