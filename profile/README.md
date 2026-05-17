@@ -7,6 +7,9 @@
 - **[The 10x AI-Native Developer](https://github.com/dost11-study/the-10x-ai-native-developer)** - 회사에서 AI로 압도적 성과를 내는 법
 - **[Build a Large Language Model from Scratch](https://github.com/dost11-study/build-a-large-language-model-from-scratch)** - 밑바닥부터 만들면서 배우는 LLM
 
+### Node.js
+-  **[원리로 돌파하는 Node.js와 CS](https://github.com/dost11-study/the-era-of-ai-shortc)** - "AI 딸깍의 시대" 원리로 돌파하는 Node.js와 CS Part1 - V8과 코어 해체기
+
 ### Ruby on Rails
 - **[Rails 8 심화 강의](https://github.com/dost11-study/inflearn-rails-advanced)** - 인디해커를 위한 루비온레일즈 8 완벽 강의
 - **[[10/3 완료] Rails 8 입문 강의](https://github.com/dost11-study/inflearn-rails-introductory)** - 인디해커를 위한 루비온레일즈 8 입문 강의
